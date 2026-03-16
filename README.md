@@ -34,12 +34,9 @@ I'm a Business operations architect dedicated to building smart automation syste
 - **Specializations**: AI agent architecture, process automation, RevOps, marketing operations, data-driven decision making
 
 ## 📁 Featured Projects
-
-Coming soon! I'm currently architecting several innovative automation projects that will showcase:
-- End-to-end AI agent implementations
-- Complex workflow automations
-- Data pipeline solutions
-- RevOps and marketing automation systems
+AI-Powered Lead Generation Engine
+Automated lead sourcing, qualification, and outreach system for B2B companies
+click to view: https://github.com/Henry20-ai/leadgen-engine
 
 Stay tuned for updates! 
 

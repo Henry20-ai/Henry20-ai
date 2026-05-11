@@ -1,6 +1,6 @@
 # Hi there, Henry Here! 
 
-# Henry Isaac — Business Analyst & Analytics Engineer
+# Business Analyst & Analytics Engineer
 
 Translating business requirements into structured documentation and 
 working data systems.

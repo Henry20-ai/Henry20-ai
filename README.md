@@ -13,7 +13,7 @@ I'm early on the engineering side. Python is my favorite tool and yes am still g
 
 ## Tools
 
-SQL (PostgreSQL, BigQuery, Snowflake), dbt, Python (pandas, numpy, request, pyarrow), Great Expectations, Power BI, Excel, n8n, HubSpot, Git.
+SQL (PostgreSQL, BigQuery,pgvector), dbt, Python (pandas, numpy, request, pyarrow), Great Expectations, Power BI, Excel, n8n, HubSpot, Git.
 
 Learning now: Fastapi & pydantic for data engineering, then Airflow, docker,Bash Scripting, AWS.
 
@@ -29,6 +29,6 @@ Fulltime & short contracts in BI or Internships/Contracts in data engineering. R
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/henry-isaac-udochukwu-b866421b1)
+- [LinkedIn](www.linkedin.com/in/henry-isaac-b866421b1)
 - [Book Intro](https://calendly.com/henryisaccudo5000/book-a-15min-intro?month=2026-11)
 - Email: Henryisaccudo5000@gmail.com

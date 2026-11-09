@@ -29,6 +29,6 @@ Fulltime & short contracts in BI or Internships/Contracts in data engineering. R
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/henry-isaac-b866421b1)
+- [LinkedIn](https://www.linkedin.com/in/henry-isaac-b866421b1/)
 - [Book Intro](https://calendly.com/henryisaccudo5000/book-a-15min-intro?month=2026-11)
 - Email: Henryisaccudo5000@gmail.com

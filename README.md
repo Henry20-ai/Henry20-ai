@@ -5,7 +5,7 @@ I'm a business analyst moving into data engineering. For three years I wrote req
 I'm early on the engineering side. Python is my favorite tool and yes am still growing and deepening my expertise in the stack.
 
 ## What I've built
-
+- [LLM Ticket Triage RAG](https://github.com/Henry20-ai/llm-ticket-triage-rag): A support-ticket triage system for a fictional online store (Brightcart). Gemini classifies each ticket (category, priority) and drafts a reply, grounded in SOP documents retrieved from Postgres + pgvector. A risk-based rule routes uncertain or high-stakes tickets to a human review queue. Accuracy is measured honestly: hand-labelled tickets, a fresh test set, and a second labeller.
 - [RWA data pipeline](https://github.com/Henry20-ai/end-to-end-RWA-data-pipeline-Python-Parquet-BigQuery-dbt-): Python pulls real-world-asset token data from the CoinGecko API, saves it as Parquet, and loads it into BigQuery. dbt builds the staging and mart models, with tests for unique and not-null token IDs.
 - [Ops SLA warehouse](https://github.com/Henry20-ai/ops-sla-warehouse): 300 synthetic support tickets go into PostgreSQL, Great Expectations checks them, and dbt models SLA breaches by priority. All 8 dbt tests pass. On the fake data, Medium tickets breached SLA more often (45.5%) than Urgent ones (13.9%), because they get pushed behind urgent work. My first data generator gave silly numbers (97.8% breaches for Urgent), so I rebuilt it before modelling anything.
 - [Marketing Ops Dashboard](https://github.com/Henry20-ai/Marketing-Ops-Dashboard): SQL and Power BI across 44 campaigns. Email returned about 8x the ROI of paid social ($17 vs $213 per acquisition).
